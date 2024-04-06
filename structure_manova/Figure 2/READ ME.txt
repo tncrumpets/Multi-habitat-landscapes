@@ -1,0 +1,6 @@
+Script to generate figure 2: structural plots
+
+Input: extracted_site_level_data.txt
+Output: 6 panel figure for floral abundance, plant species richness, insect abundance, 
+	insect species richness, insect species evenness and interaction evenness 
+	for Monads, Dyads and Triads

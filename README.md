@@ -1,5 +1,3 @@
-This repository contains R-scripts to run the analyses associated with the following manuscript:
-
 This repository shares R scripts and data associate to:
 
 *"Multi-habitat landscapes support diversity, stability and improved function"* by Hackett T.D., Sauve A.M.C, Maia K.P., Montoya D., Tylianakis J., Potts S., Vaughan I., Memmott J.

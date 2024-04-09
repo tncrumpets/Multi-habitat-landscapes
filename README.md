@@ -16,7 +16,7 @@ webs were only the sum of their habitats.
 
 * `sampling_completeness` gathers R scripts to calculate sampling completeness in the sampled networks, and their effects on the results presented in the manuscript.
 
-* `shared_habitat_variation` ???
+* `shared_habitat_variation` explores variations in plant communities across sites.
 
 * `structure_manova` extracts diversity and structural metrics and analyses the effect of number of habitats on community diversity and structure.
 

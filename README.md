@@ -8,7 +8,7 @@ Analyses are separated in the following folders:
 on sites combining multiple habitats are different than expected if landscape scale food
 webs were only the sum of their habitats.
 
-* `phylogenetic_trees` ???
+* `phylogenetic_trees` provides the scripts to i) create a phylogenetic tree including all encountered plant taxa and ii) calculate phylogenetic diversity.
 
 * `robustness_analysis` contains R scripts to calculate the robustness of landscape-scale food webs to 1) the extinction of the least to most common plant species (landscape homogeneisation), and to 2) random extinctions (species loss *per se*).
 

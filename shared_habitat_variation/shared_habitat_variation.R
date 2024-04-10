@@ -15,7 +15,7 @@ DAT_DIR <- "../data"
 #    habitat type.
 
 # Load data and select data from 'triads'.
-d1 <- read.csv(paste(DAT_DIR, "plant_abundances", "floral_units_per_site_hab.csv", sep = "/"))
+d1 <- read.csv(paste(DAT_DIR, "plant_abundances", "floral-units_per-site-hab.csv", sep = "/"))
 vp.d <- d1[d1$Type == "tri", ]
 
 
@@ -45,7 +45,7 @@ vp2
 # 2. Test for differences in beta-diversity between monads, dyads and triads.
 
 # Load data and cast into 'wide' format
-d1 <- read.csv(paste(DAT_DIR, "plant_abundances", "floral_units_per_site.csv", sep = "/"))
+d1 <- read.csv(paste(DAT_DIR, "plant_abundances", "floral-units_per-site.csv", sep = "/"))
 d2 <- dcast(d1, Site + Type ~ Plant_Species, fill = 0)
 
 

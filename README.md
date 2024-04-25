@@ -16,6 +16,8 @@ webs were only the sum of their habitats.
 
 * `shared_habitat_variation` explores variations in plant communities across sites.
 
+* `strawberry-experiment-analysis_functional-dispersion` gathers R scripts to analyse the functional response to the diversity of habitats within landscape (strawberry experiment) and to explore the associated interaction complementarity (or functional dispersion).
+
 * `structure_manova` extracts diversity and structural metrics and analyses the effect of number of habitats on community diversity and structure.
 
 * `surrounding_habitats` examines the relationship between the surrounding habitat patch area of each monad and several structural metrics.
